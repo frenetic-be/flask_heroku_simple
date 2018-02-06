@@ -6,7 +6,7 @@ Example of Deploying a Simple Flask App to Heroku
 ### Create, Clone, and CD into your repo
 
 ```
-git clone https://github.com/jhillgithub/<your_repo>.git
+git clone https://github.com/<your_user_name>/<your_repo>.git
 cd <your_repo>
 ```
 
